@@ -13,9 +13,10 @@
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kuruhinashetty.duckdns.org/about/</guid>
-      <description>Written in Go, Harshanu is an open source static site generator available under the Apache Licence 2.0. Harshanu supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+      <description>This is a non-profit website dedicated to Kuruhinashetty community under the Apache Licence 2.0..
 Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
+https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</description>
     </item>
     
     <item>
