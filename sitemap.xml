@@ -62,11 +62,6 @@
     </url>
     
     <url>
-      <loc>https://kuruhinashetty.duckdns.org/post/basic-elements/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://kuruhinashetty.duckdns.org/categories/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
@@ -83,6 +78,11 @@
     
     <url>
       <loc>https://kuruhinashetty.duckdns.org/tags/html/</loc>
+      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.duckdns.org/post/gotras/</loc>
       <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     </url>
     
