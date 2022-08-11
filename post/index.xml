@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kuruhinashetty Community</title>
-    <link>https://kuruhinashetty.duckdns.org/post/</link>
+    <link>https://kuruhinashetty.in/post/</link>
     <description>Recent content in Posts on Kuruhinashetty Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kuruhinashetty.duckdns.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kuruhinashetty.in/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kuruhina Shetty Gotras</title>
-      <link>https://kuruhinashetty.duckdns.org/post/gotras/</link>
+      <link>https://kuruhinashetty.in/post/gotras/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kuruhinashetty.duckdns.org/post/gotras/</guid>
+      <guid>https://kuruhinashetty.in/post/gotras/</guid>
       <description>&lt;h2 id=&#34;ಕರಹನಶಟಟ-ಧರಮದವರ-ಗತರಗಳ&#34;&gt;ಕುರುಹಿನಶೆಟ್ಟಿ ಧರ್ಮದವರ ಗೋತ್ರಗಳ&lt;/h2&gt;
 &lt;h3 id=&#34;ಪರಚಯ&#34;&gt;ಪರಿಚಯ&lt;/h3&gt;
 &lt;p&gt;ಲೋಕ ಕಂಟಕರಾದ ತಾರಕಾಸುರ ಮೊದಲಾದ 66 ಕೋಟಿ ದಾನವರು ಸಕಲ ಲೋಕಂಗಳಿಗೆ ದಾಳಿಯನ್ನಿಡಲು ಹರಿಬ್ರಹ್ಮರಿ ೦ ದೊಡಗುಡಿ ದೇವತೆಗಳೆಲ್ಲರೂ ಆದಿಶಕ್ತಿ ಪಾರ್ವತಾದೇವಿಯಲ್ಲಿ ಮೊರೆಯಿಟ್ಟ ಸಮಯದಲ್ಲಿ ಪಾರ್ವತಾದೇವಿಯು ಸಮಾಧಿಸ್ತನಾಗಿ ಕುಳಿತ ಪರಮೇಶ್ವರನನ್ನು ಎಚ್ಚರಗೊಳಿಸಲು ಆ ಪರಮೇಶ್ವರನು ಪಾರ್ವತಾದೇವಿಗೆ ಓಂಕಾರವೆಂಬ ರತಿಕಲೆಯನ್ನಿತ್ತುದರಿಂದ ಜಗದ್ವಾಪಿಯಾದ ಓಂಕಾರ ಪರಬ್ರಹ್ಮ ಮೂರ್ತಿಯೇ ತಾಕಾಸುರನ ವರಪ್ರಭಾವ ಶಕ್ತಿಗೆ ಮಿಗಿಲಾದ 66 ಜನ ರುದ್ರರಾಗಿ ಆವತರಿಸಿ ಬಂದು ವೃಷಭ ರೂಪದಿಂದ ದೈತ್ಯರನ್ನು ಸಂಹರಿಸಿದರು.&lt;/p&gt;
@@ -22,20 +22,20 @@
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://kuruhinashetty.duckdns.org/post/creating-a-new-theme/</link>
+      <link>https://kuruhinashetty.in/post/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kuruhinashetty.duckdns.org/post/creating-a-new-theme/</guid>
+      <guid>https://kuruhinashetty.in/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://kuruhinashetty.duckdns.org/post/goisforlovers/</link>
+      <link>https://kuruhinashetty.in/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kuruhinashetty.duckdns.org/post/goisforlovers/</guid>
+      <guid>https://kuruhinashetty.in/post/goisforlovers/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
@@ -46,10 +46,10 @@ similarities in Go templates.&lt;/p&gt;</description>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://kuruhinashetty.duckdns.org/post/hugoisforlovers/</link>
+      <link>https://kuruhinashetty.in/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kuruhinashetty.duckdns.org/post/hugoisforlovers/</guid>
+      <guid>https://kuruhinashetty.in/post/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
@@ -60,10 +60,10 @@ Clone the Hugo repository Go into the repo Run hugo in server mode and build the
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://kuruhinashetty.duckdns.org/post/migrate-from-jekyll/</link>
+      <link>https://kuruhinashetty.in/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://kuruhinashetty.duckdns.org/post/migrate-from-jekyll/</guid>
+      <guid>https://kuruhinashetty.in/post/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
