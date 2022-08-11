@@ -2,8 +2,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
       <loc>https://kuruhinashetty.in/</loc>
-      <lastmod>2022-08-04T00:00:00+00:00</lastmod>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/categories/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/categories/community/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/tags/gotras/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/post/gotras/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/tags/kuruhinashetty/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/post/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/tags/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/tags/%E0%B2%95%E0%B3%81%E0%B2%B0%E0%B3%81%E0%B2%B9%E0%B2%BF%E0%B2%A8%E0%B2%B6%E0%B3%86%E0%B2%9F%E0%B3%8D%E0%B2%9F%E0%B2%BF/</loc>
+      <lastmod>2022-08-11T00:00:00+00:00</lastmod>
     </url>
     
     <url>
@@ -57,46 +97,6 @@
     </url>
     
     <url>
-      <loc>https://kuruhinashetty.in/categories/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://kuruhinashetty.in/categories/development/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://kuruhinashetty.in/tags/gotras/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://kuruhinashetty.in/post/gotras/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://kuruhinashetty.in/tags/kuruhinashetty/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://kuruhinashetty.in/post/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://kuruhinashetty.in/tags/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-      <loc>https://kuruhinashetty.in/tags/%E0%B2%95%E0%B3%81%E0%B2%B0%E0%B3%81%E0%B2%B9%E0%B2%BF%E0%B2%A8%E0%B2%B6%E0%B3%86%E0%B2%9F%E0%B3%8D%E0%B2%9F%E0%B2%BF/</loc>
-      <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
       <loc>https://kuruhinashetty.in/post/creating-a-new-theme/</loc>
       <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     </url>
@@ -108,6 +108,11 @@
     
     <url>
       <loc>https://kuruhinashetty.in/tags/development/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+    <url>
+      <loc>https://kuruhinashetty.in/categories/development/</loc>
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     </url>
     
